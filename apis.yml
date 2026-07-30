@@ -1,8 +1,30 @@
 aid: metaview
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/metaview.png
 name: Metaview
-description: 'Metaview is a company surfaced as a portfolio company of gv, seedcamp and added to the API
-  Evangelist network as a stub for enrichment. Sector: ai. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: >-
+  Metaview is an AI-native, agentic recruiting platform used by more than 5,000
+  organizations to source, engage, and hire candidates. Its autonomous agents
+  handle candidate sourcing, inbound application review against an Ideal
+  Candidate Profile, AI interview notetaking purpose-built for recruiting,
+  personalized outreach sequences, customizable recruiting reports, and job-post
+  generation. Metaview integrates two-way with 60+ recruiting tools including ATS
+  platforms (Ashby, Greenhouse, Lever, Gem, SmartRecruiters, Workday, SAP
+  SuccessFactors), video conferencing (Zoom, Google Meet, Microsoft Teams),
+  scheduling, and SSO providers. The company is backed by GV and Seedcamp. It
+  exposes no public developer API today; this profile captures its identity,
+  llms.txt, trust posture (SOC 2, GDPR), and domain security for the API
+  Evangelist network.
 url: https://raw.githubusercontent.com/api-evangelist/metaview/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -13,10 +35,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
 - Ai
+- Recruiting
+- Hiring
+- Talent Acquisition
+- AI Agents
+- Interview Notes
+- HR Tech
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -26,3 +54,29 @@ maintainers:
 common:
 - type: Website
   url: https://www.metaview.ai
+- type: Integrations
+  url: https://www.metaview.ai/integrations
+- type: Pricing
+  url: https://www.metaview.ai/pricing
+- type: Login
+  url: https://app.metaview.ai
+- type: Blog
+  name: Resources
+  url: https://www.metaview.ai/resources
+- type: TermsOfService
+  url: https://www.metaview.ai/terms-of-service
+- type: PrivacyPolicy
+  url: https://www.metaview.ai/privacy-policy
+- type: TrustCenter
+  url: security/metaview-trust-center.yml
+- type: Compliance
+  url: https://trust.metaview.ai
+- type: LLMsTxt
+  url: llms/metaview-llms.txt
+- type: DomainSecurity
+  url: security/metaview-domain-security.yml
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 4
+  pass: local-v1
