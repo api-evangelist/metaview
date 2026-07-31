@@ -1,0 +1,14 @@
+generated: '2026-07-20'
+method: searched
+probe: true
+source: https://trust.metaview.ai/
+url: https://trust.metaview.ai/
+certifications:
+- SOC 2
+- GDPR
+evidence:
+- source: https://trust.metaview.ai/
+  keywords:
+  - soc 2
+  - trust center
+  - gdpr

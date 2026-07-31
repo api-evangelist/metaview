@@ -1,0 +1,58 @@
+# Metaview
+
+> Metaview is the Agentic Recruiting Platform. AI agents for getting the right people in seat — source, engage, and hire better with agents that truly get the brief.
+
+## Core Platform
+
+- [Metaview: Agentic Recruiting Platform](https://www.metaview.ai): AI agents for recruiting. Source, engage, and hire better with agents that understand your hiring needs. Trusted by 5,000+ organizations.
+- [AI Sourcing Agent](https://www.metaview.ai/sourcing): Truly autonomous AI sourcing agent. Finds candidates 24/7 by interpreting your hiring needs from intake calls, JDs, resumes, or natural language. Learns from your feedback and calibrates over time.
+- [Application Review](https://www.metaview.ai/application-review): AI-native inbound candidate screening. Reviews 100% of applicants against your Ideal Candidate Profile, surfaces the strongest matches with reasoning, and self-calibrates as you make decisions. Includes fraud detection.
+- [AI Interview Notes](https://www.metaview.ai/interview-notes): AI notetaker built specifically for recruiting. Joins calls, captures every signal, and delivers structured notes the moment the call ends. Fully configurable to your hiring workflow.
+- [Outreach Sequences](https://www.metaview.ai/outreach): Outreach sequences built into your sourcing flow. AI-personalized multi-step email sequences with verified contact data. Get 2x candidate replies.
+- [Recruiting Reports](https://www.metaview.ai/reports): Fully customizable AI reporting engine. Surface trends, answer questions, and get alerts across your entire hiring process in real time.
+- [AI Job Posts](https://www.metaview.ai/job-posts): Generate compliant, consistent, and on-brand job descriptions. AI-powered checks and suggestions to improve job post quality.
+- [Intake & Debrief Notes](https://www.metaview.ai/intake-debrief-notes): Capture key details from intake meetings and debriefs automatically.
+
+## Integrations
+
+- [Recruiting Tool Integrations](https://www.metaview.ai/integrations): Integrates with 62+ recruiting tools including ATS platforms, CRMs, video conferencing, scheduling apps, and SSO providers.
+- [Ashby Integration](https://www.metaview.ai/integrations/ashby): Two-way sync with Ashby ATS for notes, application review decisions, and candidate data.
+- [Greenhouse Integration](https://www.metaview.ai/integrations/greenhouse): Two-way sync with Greenhouse for recruiting notes and candidate pipeline management.
+- [Lever Integration](https://www.metaview.ai/integrations/lever): Integrate Metaview with Lever for enhanced recruiting workflows.
+- [Gem Integration](https://www.metaview.ai/integrations/gem): Integrate Metaview with Gem for candidate sourcing and CRM workflows.
+- [SmartRecruiters Integration](https://www.metaview.ai/integrations/smartrecruiters): Connect Metaview with SmartRecruiters for application review and notes.
+- [Microsoft Teams Integration](https://www.metaview.ai/integrations/microsoft-teams): Capture and summarize recruiting meetings on Microsoft Teams.
+- [Google Calendar Integration](https://www.metaview.ai/integrations/google-calendar): Automatically record and summarize recruiting meetings.
+- [SAP SuccessFactors Integration](https://www.metaview.ai/integrations/sap-successfactors): Integrate Metaview with SAP SuccessFactors for candidate data and notes.
+- [Zapier Integration](https://www.metaview.ai/integrations/zapier): Automate workflows by connecting Metaview with other apps via Zapier.
+
+## Comparisons
+
+- [Metaview vs Microsoft Copilot](https://www.metaview.ai/compare/copilot): Comparison of Metaview's purpose-built recruiting AI vs Microsoft Copilot's general meeting assistant.
+- [Metaview vs Zoom AI Companion](https://www.metaview.ai/compare/zoom-ai-companion): Comparison of Metaview's recruiting-specific AI notetaker vs Zoom AI Companion.
+
+## Customers & Case Studies
+
+- [Customer Success Stories](https://www.metaview.ai/customers): How companies like Deel, Deliveroo, Automattic, Replit, and Catawiki enhance hiring with Metaview.
+- [Customer Wall of Love](https://www.metaview.ai/customers/wall-of-love): Testimonials from recruiters, hiring managers, and talent leaders.
+- [Catawiki Case Study](https://www.metaview.ai/customers/catawiki): How Catawiki saves 2-6 hours per recruiter weekly.
+- [Hudson RPO Case Study](https://www.metaview.ai/customers/hudson-rpo): How Hudson RPO improved recruitment efficiency with Metaview.
+- [Riviera Partners Case Study](https://www.metaview.ai/customers/riviera-partners): How Riviera Partners enhances recruiting efficiency with Metaview.
+- [Swing Search Case Study](https://www.metaview.ai/customers/swing-search): How Metaview transformed Swing Search's hiring process.
+- [Replit Case Study](https://www.metaview.ai/customers/replit): How Replit saves time and enhances candidate engagement with Metaview.
+- [Craft Ventures Case Study](https://www.metaview.ai/customers/craft-ventures): How Metaview enhances Craft Ventures' hiring process.
+
+## Research & Resources
+
+- [AI & Hiring Alignment Report](https://www.metaview.ai/ai-hiring-alignment-report): Proprietary research with insights from 505 recruiting and hiring leaders on AI adoption in hiring.
+- [Resources Hub](https://www.metaview.ai/resources): Blogs, podcasts, events, and guides on talent acquisition and recruiting.
+- [10x Recruiting Podcast](https://www.metaview.ai/resources/10x-recruiting): Podcast featuring discussions with top talent leaders on recruiting best practices.
+- [Interview Questions Hub](https://www.metaview.ai/resources/interview-questions): Comprehensive library of interview questions across competencies like leadership, teamwork, critical thinking, and more.
+- [Candidate Communication Strategies](https://www.metaview.ai/resources/candidate-communication): Best practices for candidate communication throughout the recruiting process.
+
+## Company
+
+- [Pricing](https://www.metaview.ai/pricing): Free ($0), Pro ($100/mo), and Max ($300/mo) plans. Enterprise pricing available.
+- [Careers at Metaview](https://www.metaview.ai/careers): Open roles at Metaview.
+- [Privacy & Security](https://www.metaview.ai/privacy): Enterprise-level security controls, audit trails, and compliance features for recruiting data.
+- [Book a Demo](https://www.metaview.ai/demo): Schedule a demo of the Metaview Agentic Recruiting Platform.
