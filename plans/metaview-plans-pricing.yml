@@ -1,0 +1,52 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://www.metaview.ai/pricing
+sources:
+- https://www.metaview.ai/pricing
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: per-seat
+delivery:
+  delivery: managed
+  method: page
+  read: '2026-10-07'
+  managed_tier: Pro
+published: true
+note: Per-user monthly tiers for AI recruiting agents, with sourced-profile allowances; enterprise tiers
+  are quote-based. Reports add-on described as a flat fee with no numeric price.
+plan_count: 5
+currency: USD
+plans:
+- name: Free
+  price_text: $ 0 monthly per user
+  price: 0
+  currency: USD
+  period: month
+  unit: per user
+  included_quota: First 100 profiles sourced free; Infinite concurrent searches
+- name: Pro
+  price_text: $ 100 monthly per user
+  price: 100
+  currency: USD
+  period: month
+  unit: per user
+  included_quota: 200 profiles sourced per month; Infinite concurrent searches
+- name: Max
+  price_text: $ 300 monthly per user
+  price: 300
+  currency: USD
+  period: month
+  unit: per user
+  included_quota: Unlimited profiles sourced; Infinite concurrent searches
+- name: Enterprise
+  price_text: Tailored pricing
+  period: none
+  included_quota: Custom volume & usage; Dedicated support & training; Enterprise security features
+- name: Agentic Recruiting Platform
+  price_text: Custom pricing
+  period: none
+  included_quota: Complete AI-powered recruiting suite with all agents and premium features
